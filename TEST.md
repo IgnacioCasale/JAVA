@@ -1,4 +1,5 @@
 La compilación se ha realizado online, usando: https://www.mycompiler.io/es/new/java
+(se puede introducir entradas, solo necesario en Test 1)
 
 ----------- Test 1 -------------
 
